@@ -1,0 +1,122 @@
+@media screen and (max-width:1250px){
+.sliderInbox .col-sm-5 { float:left!important;}
+.mDownload, .mBecome { background-size:auto;}
+
+
+}
+
+@media screen and (max-width:1100px){
+.sliderTxt h1 { width:100%; max-width:500px; clear:both; display:block; font-size:42px;}
+.phone_01 { margin:0; width:100%; max-width:300px;}
+}
+@media screen and (max-width:1070px){
+.sliderInbox .layer-one {max-width: 340px; margin:0;}
+.sliderInbox .layer-two {max-width: 296px; left:190px;}
+.mFeatures .col-md-4 { width:33%; float:left;}
+.aboutHed h2 { max-width:645px;}
+}
+
+@media screen and (max-width:992px){
+.sliderInbox .layer-two { display:none;}
+.sliderInbox .col-sm-5 { position:absolute; right:0;}
+.aboutphone { text-align:center;}
+.txtList span { left:0; top:-5px;}
+.txtList {text-align: left;min-height: inherit;float: none;display: inline-block;max-width: 600px; padding:0 0 0 75px;}
+.featurez h3, .featureTxt h4 { font-size:16px; line-height:inherit;}
+.featureTxt { margin:0 0 30px;}
+.featurez h3 { margin:0 0 35px;}
+.animated { animation:none!important;}
+.mAbout, .mFeatures { padding:80px 0;}
+.featurez { padding:0;}
+
+}
+@media screen and (max-width:800px){
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .footer .col-lg-6.col-md-6 { width:100%; margin:0 0 15px;}
+.txtList h4 {margin: 10px 0 10px!important; }
+.featurez h3 { font-size: 20px;} 
+.mFeatures .col-md-4 { width:50%; float:left;}
+.mFeatures .col-md-4.stw { width:100%;}
+	.aboutHed, .phone1_txt {text-align:center;}
+	.txtList {max-width:355px;}
+
+.sliderInbox .col-sm-5 { display:none;}
+.btndef { margin:20px 55px 0 17px;}
+.sliderTxt { margin:50px auto; text-align:center;}
+.sliderTxt h1 { float:none; }
+.sliderTxt .w100 { text-align:center;}
+.sliderTxt .w100 .btn_01 { float:none; display:block; margin:0 auto 30px;}
+.sliderTxt .w100 .btn_02 { float:none; display:block;}
+
+.tw2 { display:block;} 
+
+.m-Nav { display:none;}
+.SubMenu { display:block;}
+.Search a { margin:0 50px 0 0;}
+.owl-dots {top: inherit;bottom: 50px;right: 0;height: auto;width: 100%;margin: 0;padding: 0; text-align:center;}
+.owl-dot { display:inline-block; margin:0 5px; width:10px; height:10px;}
+.owl-dot:hover, .owl-dot.active { width:10px; height:10px;}
+.SliderBox h1 { line-height:inherit; letter-spacing:inherit; font-size:40px; padding:0 30px;}
+.iSlider { min-height:700px;}
+.owl-carousel, .owl-carousel .owl-stage-outer, .owl-carousel .owl-item, .owl-item .Lst, .owl-carousel .owl-stage { min-height:700px;}
+	
+.is-sticky .mheader .btndef { margin:20px 55px 0 17px;}	
+	.sliderTxt p { width:100%; max-width: 480px; font-size: 14px; margin: 20px 0 30px; text-align: center!important;}
+	.nav-toggle { top:31px;}
+
+}
+@media screen and (max-width:768px){
+.Storez img { max-height:68px;}
+.Storez a { margin:0 20px 20px;}
+.mAbout { background-size: cover; box-shadow: inset 0px 0px 10px 0px rgba(0,0,0, .2);}
+.phone_01, .phone_02 { margin: 0 auto; display: inherit; max-width: 270px;float:none;}	
+.phone1_txt {margin:30px 0 0 0;}
+.footer { text-align: center; background-image:url(../img/splash3.png); background-repeat: no-repeat;background-size: contain; padding: 30px 0 10px;}
+.footer .fotlogo { float: none; margin: 0 auto 10px;}
+.footer ul { width:100%; text-align: center;}
+.footer ul li {float:none; display: inline-block;}
+.footer .copyright { width:100%;text-align: center;}
+.DownIn p, .becomeIn p {font-size: 14px;}
+	
+}
+@media screen and (max-width:568px){
+.sliderTxt h1 { font-size:36px; line-height:inherit;}
+h2 { font-size:30px!important; line-height:inherit!important;}
+.copyright { font-size:12px;}
+.sliderTxt { width:100%; padding: 0 20px;}
+.Txtview { padding: 30px;}	
+.Txtview p { font-size: 14px; text-align: justify; width: 60%}
+.Txtview h5 { width: 40%; text-align: left}	
+.Txtview li { font-size: 14px; text-align: justify;}	
+	.Txtview h2 {font-size:24px!important;}
+	.Txtview h3 {font-size:18px;}
+	.drtl .txview h5 { font-weight:normal;}
+	
+	
+}
+@media screen and (max-width:480px){
+.mFeatures .col-md-4 { width:100%; float:left;}
+.owl-carousel_011 .owl-item img {margin: 0px auto 50px;max-width: 262px;}
+.owl-carousel_011 .owl-dots { bottom:15px;}
+.featureTxt { min-height:100px; margin:0 0 30px;}
+.sliderTxt { margin: 0; padding: 0;}
+.sliderTxt h1 {font-size:30px;}
+	.storz a img { width:112px;}
+	.sliderInbox {padding:150px 0 0 0;}
+	.iSlider { min-height:520px; height: 520px;}
+.owl-carousel, .owl-carousel .owl-stage-outer, .owl-carousel .owl-item, .owl-item .Lst, .owl-carousel .owl-stage { min-height:520px; height: 520px;}
+.pgestatus {font-size: 16px;padding: 15px 0 0; height: auto;}
+	.pgestatus ol.breadcrumb li a {font-size:14px;}
+
+}
+@media screen and (max-width:380px){
+.btndef { display:none;}
+.Storez img { max-height:40px;}
+.Storez a { margin:10px;}
+.txtList { padding:0;}
+.txtList span {position: relative;float: none;margin: 0 0 15px;left: inherit;}
+	.nav-toggle { top:30px;}
+	.languageBox { left: 50%; margin-left:-45px;}
+
+}
+
+
